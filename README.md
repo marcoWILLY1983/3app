@@ -1,2 +1,2 @@
-# Roulette Web App 🎰
-App unificata: previsioni, pattern, grafici e profitti in tempo reale.
+# Roulette Web App Unificata 🎰
+Contiene previsioni, pattern, grafici e profitti in euro.
